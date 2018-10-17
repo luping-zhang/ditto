@@ -4,9 +4,9 @@ This is my personal gh-pages, powered by Jekyll and [TeXt theme](https://github.
 
 Without my permission, you are not allowed to reuse the files in the following two folds  
 
-/_posts
+* /_posts
 
-/_images
+* /_images
 
 
 
